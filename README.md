@@ -1,2 +1,2 @@
-# react_native_para_marquito
-Proyecto de RN con algunas APIs para mi soli Marco Solimano
+# react_native_apis
+Proyecto de RN con ejemplos de algunas APIs
